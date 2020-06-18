@@ -1,5 +1,5 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <h3 class="break">VueCrud is crud collection SPA written using Vue.js and VueMaterial</h3>
   </div>
 </template>
