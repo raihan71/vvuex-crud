@@ -32,7 +32,7 @@ export default {
   name: 'Home',
   data(){
     return {
-      message: "Welcome to VueCrud",
+      message: "Welcome to VvueXCrud",
       isLoading: false,
       headers: ['name','email','phone'],
       type: ["info", "success", "warning", "danger"],
