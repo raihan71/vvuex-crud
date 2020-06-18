@@ -17,6 +17,9 @@ jobs:
               paths:
                   - node_modules
           - run:
+              name: Testing time the project :)
+              command: npm run test:unit
+          - run:
               name: Build time the project :)
               command: npm run build
           - run:
