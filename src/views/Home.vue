@@ -54,13 +54,13 @@ export default {
     handleSubmit(val){
       const payload = val;
       if(!this.editId){
-        this.hanldeAddUser(payload);
+        this.handleAddUser(payload);
       }else{
         payload._id = this.editId;
         this.handleUpdateUser({...payload});
       }
     },
-    hanldeAddUser(user){
+    handleAddUser(user){
       this.isDisabled = true;
       this.$store.dispatch('createUser', user).then((resp) => {
         if(resp){
