@@ -1,29 +1,46 @@
-# vue-crud
+# Welcome to vvuex-crud 👋
+![Version](https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
+[![Github: raihan71](https://img.shields.io/github/followers/raihan71?label=Follow&logo=Github&style=social)](#)
 
-## Project setup
-```
+> vvuex-crud is a crud collection SPA using Vue.js,Vuex and Vue-Material. Also, this project has been configured with CircleCi autodevops and unit test with Jest.
+
+### ✨ [Demo](https://cb-vue.firebaseapp.com/)
+
+## Install
+
+```sh
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Build
 
-### Compiles and minifies for production
-```
+```sh
 npm run build
 ```
 
-### Run your unit tests
-```
+## Run tests
+
+```sh
 npm run test:unit
 ```
 
-### Lints and fixes files
-```
+## Run lint
+
+```sh
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Author
+
+👤 **Raihan Nismara**
+
+* Github: [@raihan71](https://github.com/raihan71)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
